@@ -5,12 +5,12 @@ import firestore from 'firebase/firestore';
 
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyDXIuCkJUMY9kod-VKq4BU76EJbr-ytdUY",
-    authDomain: "cb-ninja-chat.firebaseapp.com",
-    databaseURL: "https://cb-ninja-chat.firebaseio.com",
-    projectId: "cb-ninja-chat",
-    storageBucket: "cb-ninja-chat.appspot.com",
-    messagingSenderId: "331399359191"
+    apiKey: "AIzaSyDxPx_dhZU9BGlWAhyYkAt45VCpbOBkOR0",
+    authDomain: "cb-ninja-chat-55a9c.firebaseapp.com",
+    databaseURL: "https://cb-ninja-chat-55a9c.firebaseio.com",
+    projectId: "cb-ninja-chat-55a9c",
+    storageBucket: "",
+    messagingSenderId: "744556945650"
 };
 const firebaseApp = firebase.initializeApp(config);
 
